@@ -15,7 +15,7 @@ This repository has example `.FCStd` files used to demonstrate the use of the fa
 
 - Github: [@alexneufeld](https://github.com/alexneufeld)
 - FreeCAD Forum: @alex_55
-- E-mail: (alex.d.neufeld@gmail.com)[mailto:alex.d.neufeld@gmail.com]
+- E-mail: [alex.d.neufeld@gmail.com](mailto:alex.d.neufeld@gmail.com)
 
 ## Examples directory
 
@@ -36,7 +36,7 @@ Used to demonstrate the ScrewTap and ScrewDie object functionality.
 
 ### I_Beam_Asm
 
-![](./Images/beam.png)
+![](./Images/I_Beam_asm_w_background.png)
 
 A simple assembly of a structural beam connection, with duplicates of multiple types of fasteners. The Bill of Materials too can be used to count the number and type of scews, washers, and nuts used.
 
